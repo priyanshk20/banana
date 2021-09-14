@@ -1,3 +1,4 @@
 # banana
-Javascript API tuts
+Javascript API based project
+
 Minion API used
